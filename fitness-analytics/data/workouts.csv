@@ -1,0 +1,11 @@
+date,exercise,minutes,calories
+2024-01-01,Running,30,350
+2024-01-01,Weightlifting,45,200
+2024-01-02,Cycling,60,500
+2024-01-02,Running,20,220
+2024-01-03,Rest,,
+2024-01-04,Running,abc,400
+2024-01-05,,50,450
+2024-01-06,Yoga,30,
+2024-01-07,Swimming, ,600
+2024-01-08,Running,25,300
